@@ -1,0 +1,7 @@
+Password 1234.txt
+
+#Ingnore these directory
+Raw_data/
+
+#Ignore file types
+*.pdf
